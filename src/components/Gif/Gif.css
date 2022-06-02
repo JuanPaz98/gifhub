@@ -1,0 +1,17 @@
+
+.gif-container{
+    width: 400px;
+    margin:10px;
+    border-radius: 10px;
+    padding-bottom: 10px;    
+    background: white;
+    opacity: .8;
+    backdrop-filter: blur(35px);
+}
+
+.img-gif{
+    box-sizing: border-box;
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
+}
