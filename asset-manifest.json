@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gifhub/static/css/main.862ef032.css",
+    "main.js": "/gifhub/static/js/main.83eef88b.js",
+    "static/js/787.644f7641.chunk.js": "/gifhub/static/js/787.644f7641.chunk.js",
+    "static/media/icon2.png": "/gifhub/static/media/icon2.5bb23711b4c3aacdafbf.png",
+    "index.html": "/gifhub/index.html",
+    "main.862ef032.css.map": "/gifhub/static/css/main.862ef032.css.map",
+    "main.83eef88b.js.map": "/gifhub/static/js/main.83eef88b.js.map",
+    "787.644f7641.chunk.js.map": "/gifhub/static/js/787.644f7641.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.862ef032.css",
+    "static/js/main.83eef88b.js"
+  ]
+}
